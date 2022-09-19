@@ -1,0 +1,61 @@
+{
+  "posts": [
+    {
+      "id": 2236943,
+      "firstName": "Ishwar",
+      "lastName": "Jaitmal",
+      "email": "ishwarjaitmal39@gmail.com",
+      "mobile": 955281240,
+      "salary": 25000
+    },
+    {
+      "id": 4566,
+      "firstName": "sankalp",
+      "lastName": "pol b",
+      "email": "sankap@1233",
+      "mobile": 789,
+      "salary": 45000
+    },
+    {
+      "id": 3,
+      "firstName": "vikram",
+      "lastName": "wagh",
+      "email": "vikram@gmail.com",
+      "mobile": 7894561230,
+      "salary": 22000
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullName": "Ishwar Jaitmal",
+      "email": "ishwarjaitmal39@gmail.com",
+      "password": "123",
+      "mobile": 9552812404,
+      "id": 1
+    },
+    {
+      "fullName": "mayur kayasth",
+      "email": "mayur@gmail.com",
+      "password": "456",
+      "mobile": 9552812404,
+      "id": 2
+    },
+    {
+      "fullName": "sankalp pol",
+      "email": "sankalp@gmail.com",
+      "password": "789",
+      "mobile": 789456123,
+      "id": 3
+    },
+    {
+      "fullName": "vikram wagh",
+      "email": "vikram@gmail.com",
+      "password": "12345",
+      "mobile": 1234567890,
+      "id": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
